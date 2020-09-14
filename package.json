@@ -1,0 +1,16 @@
+{
+  "name": "google_drive_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Vishnoi <harshitvishnoi10@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^58.0.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "redis": "^3.0.2"
+  }
+}
